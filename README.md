@@ -1,4 +1,4 @@
-### Hi there
+### Carpe diem. Make your lives extraordinary.
 
 > I work in `Artificial Intelligence`, more specifically in `Multi-agent Systems` and `Software Engineering`, but I have ventured into the areas of `Robotics`, `Ubiquitous Computing`, and the `Internet of Things`. In the management area, I work in technology dissemination (and currently social media), technological innovation, entrepreneurship, and Information Technology Governance and process mapping. 
 
