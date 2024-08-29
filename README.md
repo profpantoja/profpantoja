@@ -10,8 +10,8 @@
 ### Research Groups and Projects
 
 - Member of Cognitive Hardware on Networks Research Group (CHON). 
-- Co-coordinator of the Brazilian Investment Olympics (OBINVEST).
-- Founder of the Turing Project. 
+- Founder of the Brazilian Investment Olympics (OBINVEST).
+- Founder of the Turing Project.
 
 ---
 
