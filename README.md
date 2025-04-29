@@ -9,9 +9,15 @@
 
 ### Research Groups and Projects
 
-- Member of Cognitive Hardware on Networks Research Group (CHON). 
-- Founder of the Brazilian Investment Olympics (OBINVEST).
-- Founder of the Turing Project.
+- Member of the **[`Cognitive Hardware on Networks Research Group (CHON)`](https://github.com/chon-group)**. 
+- Founder of the **Brazilian Investment Olympics (OBINVEST)**.
+- Founder of the **Turing Project**.
+  
+---
+
+### Scientific Societies 
+
+- Member of the **[`Brazilian Computing Society (Sociedade Brasileira de Computação - SBC)`](https://www.sbc.org.br/)**
 
 ---
 
