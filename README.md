@@ -18,6 +18,7 @@
 ### Scientific Societies 
 
 - Member of the **[`Institute of Electrical and Electronics Engineers (IEEE)`](https://www.ieee.org/)**
+- Member of the **[`IEEE Industrial Electronics Society Membership`](https://www.ieee-ies.org/)**
 - Member of the **[`Brazilian Computing Society (Sociedade Brasileira de Computação - SBC)`](https://www.sbc.org.br/)**
 
 ---
