@@ -9,7 +9,7 @@
 
 ### Research Groups and Projects
 
-- Member of the **[`Cognitive Hardware on Networks Research Group (CHON)`](https://github.com/chon-group)**. 
+- Member of the **[`Cognitive Hardware on Networks Research Group (CHON)`](http://dgp.cnpq.br/dgp/espelhogrupo/819423)**. 
 - Founder of the **Brazilian Investment Olympics (OBINVEST)**.
 - Founder of the **Turing Project**.
   
