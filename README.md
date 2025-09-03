@@ -19,7 +19,7 @@
 
 - <img align="left" alt="IEEE" src="./flags/ieee.svg" height="20px"> Member of the **[`Institute of Electrical and Electronics Engineers (IEEE)`](https://www.ieee.org/)**
 - <img align="left" alt="IES" src="./flags/ies.png" height="24px"> Member of the **[`IEEE Industrial Electronics Society Membership`](https://www.ieee-ies.org/)**
-- <img align="left" alt="Portugal" src="./flags/portugal.svg" height="24px"> Member of the **[`Portuguese Artificial Intelligence Society (Associação Portuguesa Para a Inteligência Artificial - APPIA)`](https://www.appia.pt/)** part of <img align="left" alt="EU" src="./flags/eu.svg" height="24px"> **[`European Association for Artificial Intelligence`](https://www.eurai.org/)**
+- <img align="left" alt="Portugal" src="./flags/portugal.svg" height="24px"> Member of the **[`Portuguese Artificial Intelligence Society (Associação Portuguesa Para a Inteligência Artificial - APPIA)`](https://www.appia.pt/)** part of   - <img align="left" alt="EU" src="./flags/eu.svg" height="24px"> **[`European Association for Artificial Intelligence`](https://www.eurai.org/)**
 - <img align="left" alt="Brazil" src="./flags/brazil.png" height="24px"> Member of the **[`Brazilian Computing Society (Sociedade Brasileira de Computação - SBC)`](https://www.sbc.org.br/)**
 
 ---
