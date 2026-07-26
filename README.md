@@ -36,6 +36,7 @@
 - International Conference on Software Engineering & Knowledge Engineering in 2021 (**publicity co-chair**)
 - International Conference on Software Engineering & Knowledge Engineering in 2022 (**co-chair**)
 - 14th Brazilian Symposium on Ubiquitous and Pervasive Computing (SBCUP) in 2022 (**local chair**)
+- II Maratona Brasileira de Programação para Projeto Automatizado de Circuitos Integrados (CADathlon Brasil) in 2022 (**local chair**)
 - International Conference on Software Engineering & Knowledge Engineering in 2023 (**program co-chair**)
 - Workshop-School of Agent Systems, their Environments and Applications in 2025 (**chair**)
 - 3rd IEEE IES Students and Young Professionals Congress in 2026 (**local chair**)
