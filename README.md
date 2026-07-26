@@ -27,6 +27,8 @@
 ### Small Bio
 > Prof. Carlos Eduardo Pantoja is an associate professor and researcher at the Federal Center for Technological Education of Rio de Janeiro (CEFET/RJ), in Rio de Janeiro, Brazil since 2009 and he is a permanent professor from the Master's Program of Computing Teaching (PROFCOMP/UFRJ) since 2026. He holds a degree in Computer Technology from the City University Center (2004) and a bachelor's degree in Industrial Management from CEFET/RJ (2011). He also holds a master's degree in Systems and Computing from the Military Institute of Engineering (IME) (2012), a PhD in Computer Science from the Fluminense Federal University (UFF) (2019), and a mobility period at Sorbonne Universités - Pierre et Marie Curie (UPMC), in France. From 2020 to 2022, he completed a postdoctoral fellowship at UFF and, in 2025 a postdoctoral fellowship at Linköping University, in Sweden. In 2019, he was Pro-Rector/Director of Extension at CEFET/RJ. He was co-chair and program co-chair of the International Conference on Software Engineering & Knowledge Engineering in 2022 and 2023, local chair of the 14th Brazilian Symposium on Ubiquitous and Pervasive Computing (SBCUP) in 2022, and chair of the Workshop-School of Agent Systems, their Environments and Applications in 2021 and 2025. He is a Senior Member of Institute of Electrical and Electronics Engineers (IEEE) and affiliated with the IEEE Industrial Electronics Society (IES), the Brazilian Computer Society (SBC), the Portuguese Artificial Intelligence Society (APPIA), and is the head of the Cognitive Hardware on Networks Research Group (CHON) of DGP/CNPq. He is a member of the program committees of the main international events in the field of artificial intelligence and agents: the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), the International Joint Conferences on Artificial Intelligence (IJCAI), the European Conference on Artificial Intelligence (ECAI), the Brazilian Conference on Intelligent Systems (BRACIS), and the Workshop-School on Agents, Environments, and Applications (WESAAC). He is currently Editor-in-Chief of the SBC's Electronic Journal of Scientific Initiation (REIC).
 
+---
+
 ### Organizing Committees I've been through
 
 - Workshop-School of Agent Systems, their Environments and Applications in 2020 (**program chair**)
@@ -37,6 +39,8 @@
 - International Conference on Software Engineering & Knowledge Engineering in 2023 (**program co-chair**)
 - Workshop-School of Agent Systems, their Environments and Applications in 2025 (**chair**)
 - 3rd IEEE IES Students and Young Professionals Congress in 2026 (**local chair**)
+
+---
 
 ### Languages and frameworks I've interacted
 
