@@ -10,7 +10,7 @@
 ### Research Groups and Projects
 
 - Member and Head of the **[`Cognitive Hardware on Networks Research Group (CHON)`](http://dgp.cnpq.br/dgp/espelhogrupo/819423)**.
-- Coordinator of the **[IEEE IES Hubs & Nodes Rio de Janeiro`](https://hubs.ieee-ies.org/hubs/brazil-south/rio-de-janeiro/)**.
+- Coordinator of the **[`IEEE IES Hubs & Nodes Rio de Janeiro`](https://hubs.ieee-ies.org/hubs/brazil-south/rio-de-janeiro/)**.
 - Founder of the **Brazilian Investment Olympics (OBINVEST)**.
 - Founder of the **Turing Project**.
   
